@@ -25,7 +25,7 @@ I am succesful running mac OS Catalina 10.15.6 with this configuration.
 `Nothing`
 
 # How to install:
-1. Make a bootable usb drive with [GibMacOS](https://github.com/corpnewt/gibMacOS "GibMacOS") and [OpenCore](https://github.com/acidanthera/OpenCorePkghttp:// "OpenCore")
+1. Make a bootable usb drive with [GibMacOS](https://github.com/corpnewt/gibMacOS "GibMacOS") and [OpenCore](https://github.com/acidanthera/OpenCorePkg "OpenCore")
 2. Extract my EFI folder to USB
 3. **Remove all your additional  USB devices while installation, leave only USB mouse and keyboard to USB 2.0 back ports**
 4. Boot from USB and start installation process
